@@ -173,7 +173,7 @@
     Sigh:
       collection: FemaleSigh
     Crying:
-      collection: VulpkaninCries
+      collection: VulpkaninCries # Wayfarer FemaleCry>VulpkaninCries```
     Whistle:
       collection: Whistles
     Weh:
