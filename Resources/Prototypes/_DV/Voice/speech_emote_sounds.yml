@@ -227,7 +227,7 @@
     Scream:
       collection: RodentiaScreams # Floof
     Laugh:
-      collection: RodentiaLaugh #WF buffing rodentia laughs
+      collection: RodentiaLaugh # Wayfarer MaleLaugh>RodentiaLaugh```
     Sneeze:
       collection: MaleSneezes
     Cough:
