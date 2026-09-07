@@ -283,7 +283,7 @@
     Weh:
       collection: Weh
     Squeak:
-      collection: RodentiaSqueak #WF refactor. Using a collection for everything
+      collection: RodentiaSqueak # Wayfarer       path: /Audio/Animals/mouse_squeak.ogg>collection: RodentiaSqueak```
     Gasp:
       collection: FemaleGasp
     DefaultDeathgasp:
