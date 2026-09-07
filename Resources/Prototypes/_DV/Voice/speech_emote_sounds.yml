@@ -107,7 +107,7 @@
     variation: 0.125
   sounds:
     Scream:
-      collection: VulpkaninScreams #WF, unnerfing vulp
+      collection: VulpkaninScreams # Wayfarer MaleScreams>VulpkaninScreams```
     Laugh:
       collection: VulpkaninGekkers  #WF, Unnerfing vulp
     Sneeze:
