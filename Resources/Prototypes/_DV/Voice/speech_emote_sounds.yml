@@ -159,7 +159,7 @@
     Scream:
       collection: VulpkaninScreams # Wayfarer FemaleScream>VulpkaninScreams```
     Laugh:
-      collection: VulpkaninGekkers #WF, unnerfing vulp
+      collection: VulpkaninGekkers # Wayfarer FemaleLaugh>VulpkaninGekkers
     Sneeze:
       collection: FemaleSneezes
     Cough:
