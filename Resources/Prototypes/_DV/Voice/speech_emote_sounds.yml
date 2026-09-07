@@ -263,7 +263,7 @@
     Scream:
       path: /Audio/Animals/mouse_squeak.ogg
     Laugh:
-      collection: RodentiaLaugh #WF buffing rodentia laughs
+      collection: RodentiaLaugh #Wayfarer FemaleLaugh>RodentiaLaugh```
     Sneeze:
       collection: FemaleSneezes
     Cough:
